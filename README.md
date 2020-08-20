@@ -12,3 +12,4 @@ A new computer language base golang and javascript.一个新的基于go和JS的�
 3.前期go底层，语法以JS为准，方便吸引大量JS程序员过来。
 4.至少一半语法有拼音兼容写法
 5.跨国界，不受国家行政限制，这样能争取更多人使用，用的人多生态才能好
+6.支持龙芯指令集loongarch编译，IDE支持国产操作系统
